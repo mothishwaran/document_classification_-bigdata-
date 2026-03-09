@@ -1,0 +1,8 @@
+# Ignore temporary uploads
+model/temp_uploads/*
+
+
+# Ignore Python cache
+__pycache__/
+.metals/
+.vscode/
